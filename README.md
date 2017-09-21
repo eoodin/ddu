@@ -12,3 +12,4 @@ Wishies
 Learning
 
 - [ ] sequelize migration
+- [ ] nodejs event loop
