@@ -3,9 +3,11 @@
 Wishies
 =======
 
-
 - sequelize association
 - ARIA
+- mastering markdown
+- mastering github editing
+- create a prototyping tool
 
 Learning
 
