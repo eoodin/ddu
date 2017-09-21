@@ -8,6 +8,7 @@ Wishies
 - mastering markdown
 - mastering github editing
 - create a prototyping tool
+- npm https://docs.npmjs.com/
 
 Learning
 
