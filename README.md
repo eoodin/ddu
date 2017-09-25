@@ -12,5 +12,6 @@ Wishies
 
 Learning
 
-- [ ] sequelize migration
+- [X] sequelize migration
 - [ ] nodejs event loop
+- [ ] ARIA
