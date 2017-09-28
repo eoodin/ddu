@@ -12,6 +12,7 @@ Wishies
 
 Learning
 
-- [X] sequelize migration
-- [ ] nodejs event loop
+- [x] sequelize migration
+- [x] nodejs event loop
 - [ ] ARIA
+- [ ] npm: registry, publish, etc.
