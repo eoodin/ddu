@@ -16,4 +16,5 @@ Learning
 - [x] nodejs event loop
 - [ ] ARIA
 - [ ] npm: registry, publish, etc.
-- [ ] Shadow DOM
+- [x] Shadow DOM
+- [ ] git internals: index, ref
