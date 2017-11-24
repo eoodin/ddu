@@ -9,6 +9,11 @@ Wishies
 - mastering github editing
 - create a prototyping tool
 - npm https://docs.npmjs.com/
+- Kubernetes
+- OpenShift
+- Cloud Native Computing Fundation
+- Kafka
+- etcd
 
 Learning
 
