@@ -10,6 +10,8 @@ Wishies
 - Kubernetes
 - OpenShift
 - Cloud Native Computing Fundation
+- Network epoll
+- OS Preemptive scheduling
 
 Learning
 
@@ -17,5 +19,6 @@ Learning
 - [x] nodejs event loop
 - [ ] ARIA
 - [ ] npm: registry, publish, etc.
+- [ ] yarn
 - [x] Shadow DOM
 - [ ] git internals: index, ref
